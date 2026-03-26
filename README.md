@@ -200,7 +200,17 @@ El usuario no puede visualizar información específica de cada producto
 
 ## 📸 Evidencias
 
-Las pruebas fueron respaldadas con capturas de pantalla almacenadas en la carpeta `/evidencias`.
+### Carrito no funcional
+![Carrito](evidencias/carrito-boton)
+
+### Formulario sin envío
+![Formulario](evidencias/formulario-envio)
+
+### Navegación sin funcionalidad
+![Navegación](evidencias/navegacion-menu)
+
+### Redirección incorrecta de productos
+![Productos](evidencias/producto-redireccion)
 
 ---
 
