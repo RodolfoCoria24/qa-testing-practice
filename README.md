@@ -22,7 +22,7 @@ Aplicar fundamentos de QA (Quality Assurance) mediante pruebas funcionales, vali
 
 ## 🛠️ Herramientas utilizadas
 
-- - Navegador web (Firefox Developer Edition)
+- Navegador web (Firefox Developer Edition)
 - Herramientas de desarrollador (DevTools)
 - Pruebas manuales
 
