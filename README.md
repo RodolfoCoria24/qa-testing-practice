@@ -201,16 +201,16 @@ El usuario no puede visualizar información específica de cada producto
 ## 📸 Evidencias
 
 ### Carrito no funcional
-![Carrito](evidencias/carrito-boton)
+![Carrito](evidencias/carrito-boton.jpeg)
 
 ### Formulario sin envío
-![Formulario](evidencias/formulario-envio)
+![Formulario](evidencias/formulario-envio.jpeg)
 
 ### Navegación sin funcionalidad
-![Navegación](evidencias/navegacion-menu)
+![Navegación](evidencias/navegacion-menu.jpeg)
 
 ### Redirección incorrecta de productos
-![Productos](evidencias/producto-redireccion)
+![Productos](evidencias/producto-redireccion.jpeg)
 
 ---
 
